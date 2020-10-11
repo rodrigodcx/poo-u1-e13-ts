@@ -1,8 +1,9 @@
-# Unidade 1 - Exercício 11 - TypeScript
+# Unidade 1 - Exercício 13 - TypeScript
 Esse exercício foi escrito em TypeScript e testado com Jest.
 
-Atualmente o teste está falhando pois a saída do método está diferente do esperado.
-Conserte o método `dados_loja` em `loja.ts` e os testes em `loja.test.ts` para que eles passem.
+Implemente a validação dos campos loja, data_hora, CCF e COO na classe `Venda`.
+
+Implemente o construtor de Venda e o método `dados_venda` em `venda.ts` e os testes em `venda.test.ts` e os faça passar. Não esqueça de atualizar os testes de `Venda`, que também devem continuar passando.
 
 ### Comando para execução
 `npm install`
